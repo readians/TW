@@ -9,7 +9,7 @@ body {
 	font-style: italic;
 	background-image:url(images/logo_p.gif);
 	background-repeat: no-repeat;
-    background-position: left top;
+    	background-position: left top;
 	padding-bottom: 82px;
 	padding-top: 77px;
 }
@@ -17,26 +17,26 @@ body {
 ul{
 	padding: 5px;
 	margin: 10px 0;
-    display: inline-block;
-    list-style-type: none;
+	display: inline-block;
+	list-style-type: none;
 }
 
 ul li{
-    float: left;
+    	float: left;
 	margin: 0 10px;
 	display: inline;
 }
 
 ul li a{
-    color: #FFFFFF;
+	color: #FFFFFF;
 	cursor: pointer;
 	float: left;
-    background-image:url(images/blue.png);
+	background-image:url(images/blue.png);
 	background-repeat:no-repeat;
 	background-position:top;
 	background-position:right;
-    text-align: center;
-    text-decoration: none;
+    	text-align: center;
+    	text-decoration: none;
 	font: 900 14px/22px "Arial", Helvetica, sans-serif;
 }
 
@@ -61,7 +61,7 @@ ul.menu li a.current span, ul.menu li a:hover span {
 }
 
 .content {
-    border: #48f solid 3px;
-    clear: left;
-    padding: 1em;
+    	border: #48f solid 3px;
+    	clear: left;
+    	padding: 1em;
 }
